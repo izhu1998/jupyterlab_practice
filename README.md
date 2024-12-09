@@ -1,6 +1,6 @@
 # Assignment 07
 
-# Recap
+## Recap
 1. Create a new GitHub repo called jupyterlab_practice
   - make repo Public
   - initialize a repo with README file
@@ -14,7 +14,7 @@
 4. Create an environment (you can use any name) and export it as environment.yaml file. Make sure that exported environment can be used on different operating systems
 **Note:** For this exercise you will be working with your jupyterlab_practice environment.
 
-# Key knowledge points/activities of the assignment
+## Key knowledge points/activities of the assignment
 1. How to ensure Jupyter Lab can run in different environments
 2. How to perform literate data science programming using Jupyter Notebooks
 3. How to use Markdown to efficiently produce formatted text
