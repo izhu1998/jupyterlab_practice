@@ -4,7 +4,7 @@
 1. Create a new GitHub repo called jupyterlab_practice
   - make repo Public
   - initialize a repo with README file
-  - Choose a license : MIT License
+  - choose a license : MIT License
 
 2. After the repo is created, add .gitignore file and populate it with **/*.log, .DS_Store and .ipynb_checkpoints
 
